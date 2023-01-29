@@ -1,2 +1,3 @@
 # HELPAid
-java GUI application with many pages and classes for a charity case  
+Charity management java GUI application
+This app will help to manage apeals, volunteers and resources  
